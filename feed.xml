@@ -9,6 +9,12 @@
     <link>https://github.com/sandraMartina/sandraMartina.github.io.git</link>
 
     <description>Sé parte de nuestro top music, escuchala YA!!!</description>
+    <image>
+      <Url>./hillsongyears.jpg</Url>
+      <title>Hillsong Adoracion</title>
+     <link rel="stylesheet" href="http://sandramartina.github.io/"/>
+    </image>
+
 
     <item>
      <title>Hilssong Adoration</title>
