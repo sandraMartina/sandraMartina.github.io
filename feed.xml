@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <rss version="2.0">
 
@@ -6,26 +6,42 @@
 
     <title>Top, Best Music</title>
 
-    <link>https://github.com/sandraMartina/sandraMartina.github.io.git</link>
-
+    <link>http://sandramartina.github.io/</link>
     <description>Sé parte de nuestro top music, escuchala YA!!!</description>
-    <image>
-      <Url>./hillsongyears.jpg</Url>
-      <title>Hillsong Adoracion</title>
-      <Link>https://sandramartina.github.io/feed.xml</Link>
-    </image>
-
+    <ttl>   
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <skipHours>
+      <hour>18:00</hour>
+      <hour>23:00</hour>
+    </skipHours>
+   </ttl>
+   <copyright>Refsnes Data as. All rights reserved.</copyright>
+   <lastBuildDate>Martes, 27 Enero 2020</lastBuildDate>
+   <webMaster>Sandra Teletor Alonzo</webMaster>
 
     <item>
-     <title>Hilssong Adoration</title>
+      <title>Hilssong Adoration</title>
       <link>https://github.com/sandraMartina/sandraMartina.github.io.git</link>
+      <textinput>
+        <description>Search Google</description>
+        <title>Search</title>
+        <link>http://www.google.no/search?</link>
+        <name>q</name>
+      </textinput>
       <description>Hillsong es un grupo musical cristiano fundado en 1983 Australia, Parte de los pioneros se destaca : Darlene Zschech, Marty Sampson, Brooke Fraser, Reuben Morgan, y Joel Houston.La banda se formó a partir de un grupo de amigos dentro del Ministerio.</description>
+      <author>sandrateletor7@gmail.com</author>
+      
+  
     </item>
     <item>
       <title>Síguenos</title>
       <link>https://github.com/sandraMartina/sandraMartina.github.io.git</link>
       <description>Si hay un tema que manifiesta la belleza en toda la creación de Dios, ese es “So Will I (100 Billion X)”, de Hillsong United, conocido en español como “Yo también (Un billón de veces)”.</description>
     </item>
+
 
   </channel>
 
