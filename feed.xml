@@ -8,7 +8,7 @@
 
     <link>http://sandramartina.github.io/</link>
     <description>Sé parte de nuestro top music, escuchala YA!!!</description>
-    <ttl>   
+    <ttl> 60 </ttl> 
     <skipDays>
       <day>Saturday</day>
       <day>Sunday</day>
@@ -17,10 +17,10 @@
       <hour>18:00</hour>
       <hour>23:00</hour>
     </skipHours>
-   </ttl>
+   
    <copyright>Refsnes Data as. All rights reserved.</copyright>
    <lastBuildDate>Martes, 27 Enero 2020</lastBuildDate>
-   <webMaster>Sandra Teletor Alonzo</webMaster>
+   <webMaster></webMaster>
 
     <item>
       <title>Hilssong Adoration</title>
@@ -33,6 +33,8 @@
       </textinput>
       <description>Hillsong es un grupo musical cristiano fundado en 1983 Australia, Parte de los pioneros se destaca : Darlene Zschech, Marty Sampson, Brooke Fraser, Reuben Morgan, y Joel Houston.La banda se formó a partir de un grupo de amigos dentro del Ministerio.</description>
       <author>sandrateletor7@gmail.com</author>
+      
+  
     </item>
     <item>
       <title>Síguenos</title>
