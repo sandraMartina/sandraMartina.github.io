@@ -3,9 +3,9 @@
 <rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom">
   
 
-
   <channel>
-
+    <atom:link href="http://sandramartina.github.io/" rel="self"/>
+    
     <title>Top, Best Music</title>
 
     <link>http://sandramartina.github.io/</link>
@@ -39,6 +39,7 @@
       <guid>https://sandramartina.github.io/</guid>
     </item>
 
+   
   </channel>
 
 </rss>
